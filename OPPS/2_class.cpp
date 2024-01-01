@@ -25,6 +25,11 @@ int main() {
 
   // dynamically allocation
   topper *b = new topper;
+  cout << "size is " << (*b).rollNo << endl;
+  cout << "salary is: " << (*b).getage() << endl;
+
+  cout << "size is " << b->rollNo << endl;
+  cout << "salary is: " << b->getage() << endl;
 
   Patra.setage(21);
   
