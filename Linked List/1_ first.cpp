@@ -1,17 +1,26 @@
-#include <iostream>
-using namespace std;
+// #include <iostream>
+// using namespace std;
 
-class Node {
-  public:
-    int data;
-    Node* next;
-};
+// struct node {
+//   int data;
+//   node *next;
+  
+//   node(int x) {
+//     data = x;
+//     next = NULL;
+//   }
+// }
 
-int main() {
+// int main() {
 
-  Node* node1 = new Node();
-  cout << node1 -> data << endl;
-  cout << node1 -> next << endl;
+//   node *head = new node(12);
+//   node *temp = new node(13);
+//   node *temp2 = new node(21);
 
-  return 0;
-}
+//   head -> next = temp;
+//   temp -> next = temp2;
+
+//   return 0;
+
+//   return 0;
+// }
