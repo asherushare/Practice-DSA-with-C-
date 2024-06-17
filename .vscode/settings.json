@@ -4,5 +4,48 @@
     "vector": "cpp",
     "algorithm": "cpp",
     "xstring": "cpp"
-  }
+  },
+  "terminal.integrated.profiles.osx": {
+
+    "bash": {
+      "path": "bash",
+      "args": [
+        "-l"
+      ],
+      "icon": "terminal-bash"
+    },
+    "zsh": {
+      "path": "zsh",
+      "args": [
+        "-l"
+      ]
+    },
+    "fish": {
+      "path": "fish",
+      "args": [
+        "-l"
+      ]
+    },
+    "tmux": {
+      "path": "tmux",
+      "icon": "terminal-tmux"
+    },
+    "pwsh": {
+      "path": "pwsh",
+      "icon": "terminal-powershell"
+    }
+  },
+  "terminal.integrated.automationProfile.linux": {
+
+  },
+  "terminal.integrated.automationProfile.osx": {
+
+  },
+  "terminal.integrated.automationProfile.windows": {
+
+  },
+  "terminal.integrated.autoReplies": {
+
+  },
+  "terminal.integrated.defaultProfile.linux": ""
 }
