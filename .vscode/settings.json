@@ -1,9 +1,11 @@
 {
   "files.associations": {
+    "*.ejs": "html",
     "iostream": "cpp",
     "vector": "cpp",
     "algorithm": "cpp",
-    "xstring": "cpp"
+    "xstring": "cpp",
+    "xutility": "cpp"
   },
   "terminal.integrated.profiles.osx": {
 
